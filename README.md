@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do gnz 😁
+## Bem-vindo(a) ao perfil 😁
 
  <div>
    <a href="https://github.com/gnzk">
